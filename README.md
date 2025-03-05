@@ -164,3 +164,42 @@ Security
 Quality
 •	Responsive design works seamlessly across devices. 
 •	User interface is intuitive with minimal learning curve.
+
+
+
+
+
+Meeting Minutes-1
+=================
+
+Date/Location: 27-Feb-2025, Discord (Online)
+Attendees: 
+Sahariyar (SA)
+Abyad (AB)
+Latifa (LA)
+Nuzhat (NU)
+Start Time: 11:04 PM
+End Time: 00:53 AM
+
+Decisions
+=========
+
+* The functional requirements will be written in User Story format with confirmation steps.
+* The SRS must be finalized and reviewed by all of us by February 28, 2025, to meet the project milestone.
+* Trello will be used for task management.
+* GitHub will be used for version control.
+* Discord will be used for team communication and discussions.
+
+Actions
+=======
+
+Action	Allocated team member(s)	Deadline
+Draft the Introduction section (Purpose, Audience, Scope)	AB, NU	28/02/2025
+Draft the Overall Description section	SA, LA	28/02/2025
+Draft Functional Requirements (User Stories & Confirmation)	SA, NU	28/02/2025
+Draft Non-Functional Requirements	NU	28/02/2025
+Review and provide feedback on SRS draft	AB, LA	28/02/2025
+Proofread and finalize SRS document with revisions	SA, AB, LA, NU	28/02/2025
+Set up Discord for overall project discussion	SA	01/03/2025
+Create Trello board for task tracking	AB	02/03/2025
+Set up GitHub repository and share access	LA	03/03/2025
