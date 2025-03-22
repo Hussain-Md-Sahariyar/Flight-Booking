@@ -3,7 +3,7 @@
 ![Dhar Hobe](your_image_url_here)
 
 ### Team Name: The Flight Coders 
-**Department of Electrical and Computer Engineering, North South University, Dhaka, Bangladesh**
+Department of Electrical and Computer Engineering, North South University, Dhaka, Bangladesh
 
 ### Team Members:
 1. Iffat Ara Sanzida (IA) - 344  
