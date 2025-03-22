@@ -1,9 +1,9 @@
-# Dhar Hobe - A Bangladeshi Product Renting System
+# Biman Bangladesh Airlines Flight Booking Management System
 
 ![Dhar Hobe](your_image_url_here)
 
-### Team Name: JU_High_Fives  
-**Batch 48, Department of Computer Science & Engineering, Jahangirnagar University, Bangladesh**
+### Team Name: The Flight Coders 
+**Department of Electrical and Computer Engineering, North South University, Dhaka, Bangladesh**
 
 ### Team Members:
 1. Iffat Ara Sanzida (IA) - 344  
