@@ -1,5 +1,7 @@
 # Biman Bangladesh Airlines Flight Booking Management System
-
+<p align="center">
+  <img src="https://github.com/Hussain-Md-Sahariyar/Flight-Booking/blob/main/resources/Biman.jpg" alt="Description of image" width="700" height="200">
+</p>
 
 
 
