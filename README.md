@@ -17,14 +17,14 @@ Department of Electrical and Computer Engineering, North South University, Dhaka
 3. Kaniz Nuzhat Kamal (NU)
 4. Latifa Rahman (LA)
 
-   Tech Stack 
+  [Tech Stack] 
 - Backend: PHP
 - Frontend: HTML, CSS, JavaScript
 - Database: MySQL
 - Web Server: Apache
 - Version Control: Git
 
-  Installation & Setup
+  [Installation & Setup]
 1. Clone the repository:
  - git clone https://github.com/Hussain-Md-Sahariyar/Flight-Booking.git
 2. Import the database:
