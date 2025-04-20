@@ -28,14 +28,14 @@ Department of Electrical and Computer Engineering, North South University, Dhaka
 1. Clone the repository:
  - git clone https://github.com/Hussain-Md-Sahariyar/Flight-Booking.git
 2. Import the database:
- - Create a MySQL database (e.g., flight_booking).
+ - Create a MySQL database (e.g., flight_booking). (requires correction)
  - Import the provided SQL file located in the resources folder.
 3. Configure the application:
  - Update the database connection settings in the configuration file (e.g., config.php).
 4. Run the application:
  - Place the project folder in your web server's root directory (e.g., htdocs for XAMPP).
  - Start the Apache and MySQL services.
- - Access the application via http://localhost/Flight-Booking
+ - Access the application via http://localhost/Flight-Booking (requires correction)
    
 
 
